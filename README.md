@@ -1,6 +1,4 @@
-# ShowIO C44
-## User Documentation
-
+# ShowIO C44 - User Documentation
 The ShowIO C44 is a multipurpose show control device with the following features:
 
 Digital I/O
