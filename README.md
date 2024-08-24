@@ -27,3 +27,9 @@ Dual isolated RS-485 Serial Transcievers
   * 🔜 DMX controller functionality
   * 🔜 DMX receiver functionality
   * 🔜 Daisy-chain multiple ShowIO devices together
+
+Software Integrations
+  * ✅ Designed for use with ShowNET
+  * ✅ TouchOSC (OSC)
+  * ✅ QLab (OSC)
+  * ✅ EOS (OSC)
